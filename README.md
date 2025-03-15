@@ -169,12 +169,27 @@ Provides user validation, ensures the software meets real-world needs.
 
 
 
-
-
 #Part 2: Introduction to AI and Prompt Engineering
 
 
 Define prompt engineering and discuss its importance in interacting with AI models.
 
+Prompt Engineering is all about crafting questions or statements to get the best possible responses from AI models. It is the process where you guide generative AI solutions to generate desired outputs.
+Importance
+Efficient resource utilization- Efficiency is the key to optimizing resources and reducing costs. Prompt engineering plays a vital role in achieving efficient AI systems by reducing unnecessary computations and optimizing resource utilization. Through fine-tuning prompts, organizations can streamline AI processes, saving computational resources and ultimately optimizing costs. 
+Improved user experience - Prompt engineering makes it easy for users to obtain relevant results in the first prompt. It helps mitigate bias that may be present from existing human bias in the large language models’ training data.
+Increased flexibility - A prompt engineer can create prompts with domain-neutral instructions highlighting logical links and broad patterns.
+Developer control - Prompt engineering gives developers more control over users' interactions with the AI. Effective prompts provide intent and establish context to the large language models. Provide an example of a vague prompt and then improve it by making it clear, specific, and concise.
+
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+
+Vague Prompt
+Create a Ramadan content for 30days
+Improved Prompt
+As a social media manager of a muslimah wellness brand, create a 30-day ramadan content for an audience of age 25 to 50 . The content should be friendly and at the same time inspiring. Make use of bullet points in presentation.
+
+Importance of improved prompt
+Clarity: The improved prompt specifies the role of the AI model
+Specific Details: It specifies the target audience and also thier age bracket so that responses are streamlined to that specification. 
+Concise: The format of the response is provided has an additional detail so that important points are well highlighted
